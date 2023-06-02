@@ -1,6 +1,7 @@
 # Seat Registration System
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 This is a Seat Registration System implemented in C++. The system allows users to register and allocate seats for various events, such as concerts, conferences, or sporting events. It provides a user-friendly interface to manage seat reservations efficiently.
 
