@@ -1,7 +1,9 @@
 # Seat Registration System
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
+![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 This is a Seat Registration System implemented in C++. The system allows users to register and allocate seats for various events, such as concerts, conferences, or sporting events. It provides a user-friendly interface to manage seat reservations efficiently.
 
@@ -74,6 +76,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 Please ensure that your code follows the project's coding style and includes appropriate documentation.
 
 ## License
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/DehyaKhurraim/E-Learning-Platform/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/DehyaKhurraim/E-Learning-Platform/releases)
 
 This project is licensed under the [MIT License](LICENSE).
 
